@@ -2,7 +2,7 @@ turtlebot + hokuyo
 =========
 
 
-### FOR GMAPPING USIGN HOKUYO RUN:
+### FOR GMAPPING USING HOKUYO RUN:
 
 ```
 rosrun gmapping slam_gmapping scan:=scan
